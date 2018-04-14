@@ -8,3 +8,4 @@ target/*
 *.iml
 /target
 /bin
+petclinic_init_db/sql_scripts
